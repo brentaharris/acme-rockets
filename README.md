@@ -1,7 +1,11 @@
-## About Acme Rockets:
+# About Acme Rockets:
 This project is a fully-responsive site designed with HTML, Tailwind CSS and
 Javascript. This site was created as a fictional ‘rocket-ordering-service’ with a cartoon
-flair. It also features ‘dark’ or ‘light’ mode based on your system settings
+flair. It also features ‘dark’ or ‘light’ mode based on your system settings.
+Please feel free to observe the code above, or you can visit the live site.
+
+[Live site:](https://acme-rockets.netlify.app/)
+
 
 ## 💫 About Me:
 I'm a web developer currently looking for a position within the frontend, backend, or fullstack areas. I'm currently working on a project with another web developer to create a free to use API about birds, that will also incorporate a game component.
